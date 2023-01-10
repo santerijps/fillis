@@ -1,6 +1,6 @@
-# Fillis
+# fillis
 
-`Fillis` is a file listener that runs a specified command whenever files are written to. Can be used like [nodemon](https://nodemon.io/) to automatically compile and run programs when files are saved.
+`fillis` is a file listener that runs a specified command whenever files are written to. Can be used like [nodemon](https://nodemon.io/) to automatically compile and run programs when files are saved.
 
 Written in the C programming language and compiled with [Tiny C Compiler](https://bellard.org/tcc/), the executable is smaller than 10kb!
 
